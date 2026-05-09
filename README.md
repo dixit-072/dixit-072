@@ -52,4 +52,14 @@ Solved business-driven SQL problems to analyze revenue, customer behavior, and p
 Performed Excel-based sales analysis to identify trends, KPIs, and business growth opportunities.
 
 
+---
+
+## 🌱 Currently Learning
+
+- Advanced SQL Optimization
+- Feature Engineering
+- Machine Learning
+- RAG-based Data Analysis Dashboard
+
+
 
