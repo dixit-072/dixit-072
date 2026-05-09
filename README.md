@@ -68,7 +68,7 @@ I specialize in building **end-to-end analytics pipelines**, from data cleaning 
 ## 📌 Featured Projects
 
 ### 🛒 Retail Analytics Project
-End-to-end analytics pipeline using Python, SQL, and Power BI for business insights and reporting.
+Built an end-to-end analytics system to analyze sales performance, identify revenue trends, and support business decision-making using Python, SQL, and Power BI.
 
 ### 📊 Customer Churn Analysis
 Identified churn patterns and high-risk customer segments using exploratory data analysis and visualization.
