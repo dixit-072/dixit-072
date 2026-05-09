@@ -52,13 +52,4 @@ Solved business-driven SQL problems to analyze revenue, customer behavior, and p
 Performed Excel-based sales analysis to identify trends, KPIs, and business growth opportunities.
 
 
----
-
----
-
-## 📈 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dixit-072&show_icons=true&theme=default"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-072&layout=compact&theme=default"/>
 
