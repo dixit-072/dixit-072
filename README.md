@@ -51,3 +51,12 @@ Solved business-driven SQL problems to analyze revenue, customer behavior, and p
 ### ☕ Coffee Sales Analysis
 Performed Excel-based sales analysis to identify trends, KPIs, and business growth opportunities.
 
+
+---
+
+## 📈 GitHub Stats
+
+![Dixit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixit-072&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-072&layout=compact)
+
