@@ -54,9 +54,11 @@ Performed Excel-based sales analysis to identify trends, KPIs, and business grow
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
-![Dixit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixit-072&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dixit-072&show_icons=true&theme=default"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-072&layout=compact)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-072&layout=compact&theme=default"/>
 
