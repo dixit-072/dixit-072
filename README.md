@@ -62,4 +62,11 @@ Performed Excel-based sales analysis to identify trends, KPIs, and business grow
 - RAG-based Data Analysis Dashboard
 
 
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/dixit-data-analyst/
+
+
 
