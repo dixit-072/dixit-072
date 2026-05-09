@@ -14,3 +14,22 @@ I enjoy building end-to-end analytics projects involving:
 - Dashboard Development
 - Predictive Modeling
 - Business Insights
+
+
+---
+
+## 🚀 Tech Stack
+
+### Languages & Tools
+
+- Python
+- MySQL
+- Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- SQLAlchemy
+- Jupyter Notebook
