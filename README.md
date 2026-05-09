@@ -93,4 +93,4 @@ Solved business problems using SQL queries to analyze revenue, product performan
 
 ---
 
-⭐ *Turning data into decisions, one project at a time.*
+⭐ Turning data into actionable business insights through analytics and dashboards.
