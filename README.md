@@ -39,11 +39,11 @@ I enjoy building end-to-end analytics projects involving:
 
 ## 📌 Featured Projects
 
-### 📊 Customer Churn Analysis
-Analyzed telecom customer behavior to identify churn patterns and predict high-risk customers using Machine Learning.
-
 ### 🛒 Retail Analytics Project
 Built an end-to-end retail analytics pipeline using Python, MySQL, and Power BI for business reporting and sales insights.
+
+### 📊 Customer Churn Analysis
+Performed exploratory data analysis on telecom customer data to identify churn patterns, high-risk customer segments, and business retention opportunities using Python.
 
 ### 🍕 Pizza Sales SQL Analysis
 Solved business-driven SQL problems to analyze revenue, customer behavior, and product performance.
