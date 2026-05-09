@@ -1,37 +1,38 @@
 # Hi, I'm Dixit 👋
 
-### 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 📈 BI Developer
+### 📊 Data Analyst | 📈 BI Developer | 🤖 ML Enthusiast
 
 ---
 
-## 🧠 About Me
+## 🧠 Profile Summary
 
-I am a Data Analyst focused on transforming raw data into actionable business insights using **SQL, Python, Excel, Power BI, and Machine Learning**.
+I am a Data Analyst focused on solving business problems using **data, dashboards, and analytics systems**.
 
-I specialize in building **end-to-end analytics pipelines**, from data cleaning to dashboarding and insight delivery.
-
----
-
-## 🚀 What I Do
-
-- 📊 Data Cleaning & Preprocessing
-- 🗄️ SQL-based Business Analysis
-- 📈 Dashboard Development (Power BI / Excel)
-- 🤖 Basic Machine Learning Models
-- 📉 Data-driven Business Insights
+I work across the full analytics pipeline:
+from **data extraction → cleaning → analysis → visualization → decision support**.
 
 ---
 
-## 📊 Dashboard Showcase
+## 📊 Key Strengths
 
-### 📌 Excel Dashboard (Sales & KPI Analysis)
+- End-to-end analytics workflow (SQL → Python → BI tools)
+- Business-focused data analysis and reporting
+- Dashboard development using Power BI & Excel
+- Data cleaning, transformation, and exploratory analysis
+- Ability to translate data into business insights
+
+---
+
+## 📊 Dashboard Portfolio
+
+### 📌 Excel Dashboard (Business KPI Analysis)
 
 ![Excel Dashboard](images/excel_dashboard.png)
 
-**Highlights:**
-- KPI tracking (Revenue, Profit, Sales trends)
-- Business performance insights
-- Excel-based visualization and reporting
+**Focus Areas:**
+- Sales & KPI tracking
+- Performance monitoring
+- Business reporting using Excel
 
 ---
 
@@ -39,51 +40,56 @@ I specialize in building **end-to-end analytics pipelines**, from data cleaning 
 
 ![Power BI Dashboard](images/powerbi_retail_dashboard.png)
 
-**Highlights:**
+**Focus Areas:**
 - Retail sales performance analysis
-- Interactive filters and insights
-- Region-wise and category-wise breakdown
-- Business decision support dashboard
+- Region-wise and category-wise insights
+- Interactive filtering for business decision-making
+- Executive-level reporting dashboard
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages & Tools
-
+**Languages & Tools:**
 - Python
 - SQL / MySQL
 - Excel
 - Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+
+**Libraries:**
+- Pandas, NumPy
+- Matplotlib, Seaborn
 - Scikit-learn
+
+**Other:**
 - SQLAlchemy
 - Jupyter Notebook
 
 ---
 
-## 📌 Featured Projects
+## 📌 Selected Projects
 
-### 🛒 Retail Analytics Project
-Built an end-to-end analytics system to analyze sales performance, identify revenue trends, and support business decision-making using Python, SQL, and Power BI.
+### 🛒 Retail Analytics System
+Built an end-to-end analytics pipeline to analyze sales performance, identify revenue trends, and support business decision-making using Python, SQL, Excel, and Power BI.
+
+---
 
 ### 📊 Customer Churn Analysis
-Identified churn patterns and high-risk customer segments using exploratory data analysis and visualization.
+Conducted exploratory data analysis (EDA) on customer churn data using Python in Jupyter Notebook and prepared a structured report highlighting key churn patterns and insights.
+
+---
 
 ### 🍕 Pizza Sales SQL Analysis
-Solved business problems using SQL queries to analyze revenue, product performance, and customer behavior.
+Performed business-focused SQL analysis to evaluate revenue trends, product performance, and customer behavior patterns.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced SQL Optimization
-- Feature Engineering
-- Machine Learning Models
-- RAG-based Analytics Systems
+- Advanced SQL optimization techniques
+- Feature engineering for ML models
+- Production-level analytics systems
+- RAG-based data analysis workflows
 
 ---
 
@@ -93,4 +99,4 @@ Solved business problems using SQL queries to analyze revenue, product performan
 
 ---
 
-⭐ Turning data into actionable business insights through analytics and dashboards.
+⭐ Turning data into decisions through analytics, dashboards, and insights.
