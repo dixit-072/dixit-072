@@ -1,29 +1,58 @@
 # Hi, I'm Dixit 👋
 
-### Data Analyst | Machine Learning Enthusiast
+### 📊 Data Analyst | 🤖 Machine Learning Enthusiast | 📈 BI Developer
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I am a Data Analyst skilled in transforming raw data into meaningful business insights using SQL, Python, Excel, Power BI, and Machine Learning.
+I am a Data Analyst focused on transforming raw data into actionable business insights using **SQL, Python, Excel, Power BI, and Machine Learning**.
 
-I enjoy building end-to-end analytics projects involving:
-- Data Cleaning
-- SQL Analysis
-- Dashboard Development
-- Predictive Modeling
-- Business Insights
-
+I specialize in building **end-to-end analytics pipelines**, from data cleaning to dashboarding and insight delivery.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I Do
+
+- 📊 Data Cleaning & Preprocessing
+- 🗄️ SQL-based Business Analysis
+- 📈 Dashboard Development (Power BI / Excel)
+- 🤖 Basic Machine Learning Models
+- 📉 Data-driven Business Insights
+
+---
+
+## 📊 Dashboard Showcase
+
+### 📌 Excel Dashboard (Sales & KPI Analysis)
+
+![Excel Dashboard](images/excel_dashboard.png)
+
+**Highlights:**
+- KPI tracking (Revenue, Profit, Sales trends)
+- Business performance insights
+- Excel-based visualization and reporting
+
+---
+
+### 📌 Power BI Retail Dashboard
+
+![Power BI Dashboard](images/powerbi_retail_dashboard.png)
+
+**Highlights:**
+- Retail sales performance analysis
+- Interactive filters and insights
+- Region-wise and category-wise breakdown
+- Business decision support dashboard
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages & Tools
 
 - Python
-- MySQL
+- SQL / MySQL
 - Excel
 - Power BI
 - Pandas
@@ -34,23 +63,18 @@ I enjoy building end-to-end analytics projects involving:
 - SQLAlchemy
 - Jupyter Notebook
 
-
 ---
 
 ## 📌 Featured Projects
 
 ### 🛒 Retail Analytics Project
-Built an end-to-end retail analytics pipeline using Python, MySQL, and Power BI for business reporting and sales insights.
+End-to-end analytics pipeline using Python, SQL, and Power BI for business insights and reporting.
 
 ### 📊 Customer Churn Analysis
-Performed exploratory data analysis on telecom customer data to identify churn patterns, high-risk customer segments, and business retention opportunities using Python.
+Identified churn patterns and high-risk customer segments using exploratory data analysis and visualization.
 
 ### 🍕 Pizza Sales SQL Analysis
-Solved business-driven SQL problems to analyze revenue, customer behavior, and product performance.
-
-### ☕ Coffee Sales Analysis
-Performed Excel-based sales analysis to identify trends, KPIs, and business growth opportunities.
-
+Solved business problems using SQL queries to analyze revenue, product performance, and customer behavior.
 
 ---
 
@@ -58,9 +82,8 @@ Performed Excel-based sales analysis to identify trends, KPIs, and business grow
 
 - Advanced SQL Optimization
 - Feature Engineering
-- Machine Learning
-- RAG-based Data Analysis Dashboard
-
+- Machine Learning Models
+- RAG-based Analytics Systems
 
 ---
 
@@ -68,5 +91,6 @@ Performed Excel-based sales analysis to identify trends, KPIs, and business grow
 
 - LinkedIn: https://www.linkedin.com/in/dixit-data-analyst/
 
+---
 
-
+⭐ *Turning data into decisions, one project at a time.*
