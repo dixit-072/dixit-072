@@ -1,102 +1,95 @@
 # Hi, I'm Dixit 👋
 
-### 📊 Data Analyst | 📈 BI Developer | 🤖 ML Enthusiast
+### 📊 Data Analyst | ⚙️ Analytics Engineer | 🚀 Python App Developer
 
 ---
 
 ## 🧠 Profile Summary
 
-I am a Data Analyst focused on solving business problems using **data, dashboards, and analytics systems**.
+I am a Data Analyst focused on designing and engineering end-to-end analytics workflows, automated data pipelines, and interactive business intelligence applications. 
 
-I work across the full analytics pipeline:
-from **data extraction → cleaning → analysis → visualization → decision support**.
+I bridge the gap between raw backend database architectures and frontend executive decision-making using the complete modern data stack: **SQL ➔ Python ➔ ETL Ingestion ➔ BI/Web Dashboards**.
 
 ---
 
 ## 📊 Key Strengths
 
-- End-to-end analytics workflow (SQL → Python → BI tools)
-- Business-focused data analysis and reporting
-- Dashboard development using Power BI & Excel
-- Data cleaning, transformation, and exploratory analysis
-- Ability to translate data into business insights
-
----
-
-## 📊 Dashboard Portfolio
-
-### 📌 Excel Dashboard (Business KPI Analysis)
-
-![Excel Dashboard](images/excel_dashboard.png)
-
-**Focus Areas:**
-- Sales & KPI tracking
-- Performance monitoring
-- Business reporting using Excel
-
----
-
-### 📌 Power BI Retail Dashboard
-
-![Power BI Dashboard](images/powerbi_retail_dashboard.png)
-
-**Focus Areas:**
-- Retail sales performance analysis
-- Region-wise and category-wise insights
-- Interactive filtering for business decision-making
-- Executive-level reporting dashboard
+- **End-to-End Analytics Workflows:** Designing robust data pipelines spanning from extraction to final presentation layer.
+- **Production-Level Monitoring:** Engineering custom observability metrics for AI/RAG system architectures.
+- **Security & Data Compliance:** Utilizing strict environment variable encryptions (`.env`) to protect backend operational systems.
+- **Multi-Platform Visual Reporting:** Creating professional enterprise dashboards across **Streamlit**, **Power BI**, and **Excel**.
+- **Data-Driven Storytelling:** Translating multi-stage database computations into clear, actionable corporate strategies.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Tools:**
-- Python
-- SQL / MySQL
-- Excel
-- Power BI
+**Languages & Frameworks:**
+- Python, SQL (MySQL), Excel, Streamlit
+- Jupyter Notebook, VS Code
 
-**Libraries:**
+**Libraries & Database Tools:**
 - Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-
-**Other:**
-- SQLAlchemy
-- Jupyter Notebook
+- SQLAlchemy, MySQL-Connector
+- Matplotlib, Seaborn, Plotly Express
+- Python-Dotenv, Scikit-learn
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Production Portfolios
 
-### 🛒 Retail Analytics System
-Built an end-to-end analytics pipeline to analyze sales performance, identify revenue trends, and support business decision-making using Python, SQL, Excel, and Power BI.
+### 🤖 1. Automated RAG Observability Dashboard (Python & Streamlit)
+Built a modular data engineering pipeline and interactive web application to monitor, audit, and visualize operational log behaviors inside Retrieval-Augmented Generation (RAG) ecosystems.
+* **Tech Stack:** Python, Streamlit Cloud, Plotly Express, MySQL Server, SQLAlchemy Engine
+* **Focus Areas:** Engineered live-updating UI frameworks and custom semantic audit tracking parameters including *Confidence Drift* and *Grounding Quality*.
+
+### 🛒 2. Secure Retail Analytics Dashboard (Power BI)
+Designed a secure, end-to-end relational database ingestion workflow to process customer shopping data and monitor retail business performance trends.
+* **Tech Stack:** Power BI Desktop, MySQL, Python, Pandas, Python-Dotenv
+* **Focus Areas:** Constructed clear Star Schema relational data models, built scalable DAX measurement calculations, and implemented strict environment encryption rules.
+
+### 📈 3. Sales & KPI Performance Monitoring (Excel)
+Developed a dynamic corporate performance metrics matrix using Excel to trace sales records, evaluate organizational benchmarks, and output clean analytical reporting summaries.
+* **Tech Stack:** Microsoft Excel (Advanced Formulas, Interactive Visual Layers)
+* **Focus Areas:** Dynamic key performance tracking, automated business conditional flags, and executive summary matrices.
 
 ---
+
+## 📊 Visual Canvas Showcases
+
+### 🌐 1. Live Streamlit App Interface (RAG Analytics Python Web Application)
+![Streamlit Dashboard Preview](https://raw.githubusercontent.com/dixit-072/rag-dashboard-analysis/main/images/dashboard_preview.png)
+
+### 📌 2. Interactive Retail Performance Audit (Power BI Layout)
+![Power BI Dashboard Preview](https://raw.githubusercontent.com/dixit-072/retail-analytics-project/main/images/dashboard_preview.png)
+
+### 📈 3. Operational KPI Matrix (Excel Dashboard Layout)
+![Excel Dashboard Preview](https://raw.githubusercontent.com/dixit-072/retail-analytics-project/main/images/excel_dashboard.png)
+
+---
+
+## 📌 Selected Core Projects
 
 ### 📊 Customer Churn Analysis
-Conducted exploratory data analysis (EDA) on customer churn data using Python in Jupyter Notebook and prepared a structured report highlighting key churn patterns and insights.
-
----
+Conducted exploratory data analysis (EDA) on customer churn datasets using Python in Jupyter Notebook and prepared a structured retention report isolating key user churn patterns and operational indicators.
 
 ### 🍕 Pizza Sales SQL Analysis
-Performed business-focused SQL analysis to evaluate revenue trends, product performance, and customer behavior patterns.
+Executed business-focused SQL scripts and analytical transformations to evaluate global revenue trends, product segment breakdowns, and user ordering behavior patterns.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Active Focus Areas
 
-- Advanced SQL optimization techniques
-- Feature engineering for ML models
-- Production-level analytics systems
-- RAG-based data analysis workflows
+- Advanced SQL Query Optimization, Indexing, & Execution Plan Tuning
+- Enterprise Data Warehousing, Dimensional Modeling, & ETL Pipeline Automation
+- Production-Level Analytics Application Implementations
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/dixit-data-analyst/
+- **LinkedIn:** [linkedin.com/in/dixit-data-analyst/](https://www.linkedin.com/in/dixit-data-analyst/)
 
 ---
 
-⭐ Turning data into decisions through analytics, dashboards, and insights.
+⭐ Turning complex data infrastructure into clear corporate decisions.
