@@ -1,102 +1,89 @@
-# Hi, I'm Dixit 👋
-
-### 📊 Data Analyst | 📈 BI Developer | 🤖 ML Enthusiast
-
----
-
-## 🧠 Profile Summary
-
-I am a Data Analyst focused on solving business problems using **data, dashboards, and analytics systems**.
-
-I work across the full analytics pipeline:
-from **data extraction → cleaning → analysis → visualization → decision support**.
+# Hi, I'm Dixit Sharma 👋
+### Data Analyst | SQL • Python • Power BI • Streamlit | Open to Full-Time Roles
 
 ---
 
-## 📊 Key Strengths
+## 🧠 About Me
 
-- End-to-end analytics workflow (SQL → Python → BI tools)
-- Business-focused data analysis and reporting
-- Dashboard development using Power BI & Excel
-- Data cleaning, transformation, and exploratory analysis
-- Ability to translate data into business insights
+Data Analyst with **6 months of hands-on internship experience** at Eligo CS, 
+where I built end-to-end analytics pipelines across SQL, Python, and Power BI 
+for 149,000+ transactional and 7,000+ behavioral records.
 
----
+I've delivered **5 production-backed projects** — from AI observability dashboards 
+to customer churn analysis — translating raw data into staffing, pricing, 
+and retention decisions.
 
-## 📊 Dashboard Portfolio
-
-### 📌 Excel Dashboard (Business KPI Analysis)
-
-![Excel Dashboard](images/excel_dashboard.png)
-
-**Focus Areas:**
-- Sales & KPI tracking
-- Performance monitoring
-- Business reporting using Excel
+📍 Based in Himachal Pradesh | Open to relocate → Delhi NCR / Chandigarh / Noida / Gurugram
 
 ---
 
-### 📌 Power BI Retail Dashboard
+## 🚀 Flagship Project
 
-![Power BI Dashboard](images/powerbi_retail_dashboard.png)
+### 🤖 Automated RAG Analytics & Observability Pipeline
+**[🔗 Live App](https://dixit-rag-analytics.streamlit.app)**
 
-**Focus Areas:**
-- Retail sales performance analysis
-- Region-wise and category-wise insights
-- Interactive filtering for business decision-making
-- Executive-level reporting dashboard
+- Designed a modular end-to-end pipeline processing raw LLM/chatbot logs
+- Audited **192 queries** | Tracked **76.37% avg confidence** | **1.49s avg latency**
+- Engineered hallucination detection, retrieval failure rates & confidence drift metrics
+- Deployed dual dashboards: **Streamlit Cloud + Power BI Star Schema**
+- Stack: Python • Pandas • MySQL • SQLAlchemy • Streamlit • Power BI • Plotly
+
+---
+
+## 📌 Projects
+
+### 🛒 Retail Analytics & Customer Behavior Analysis
+- Executed **13 SQL business queries** — CLV, segmentation, top-3 products per category
+- Built interactive Power BI dashboard with KPI cards, revenue trends & age-group breakdowns
+- Stack: Python • Pandas • MySQL • SQLAlchemy • Power BI
+
+### 📉 Customer Churn Analysis
+- Analyzed **~7,000 telecom customer records**
+- Identified highest-risk segment at **54.6%** churn rate
+- Produced 5+ segmented visualizations → contract migration recommendations
+- Stack: Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
+
+### 🍕 Pizza Sales SQL Analysis
+- Solved **15+ real-world business problems** across 3 difficulty tiers
+- Uncovered cumulative revenue trends, peak ordering hours & top-5 revenue pizzas
+- Stack: MySQL • CTEs • Window Functions • Joins • Aggregations
+
+### ☕ Coffee Shop Sales Dashboard
+- Analyzed **149,117 transactions** across store locations
+- Identified peak hours (8–10 AM), top products & highest-revenue store
+- Stack: Microsoft Excel • Pivot Tables • KPI Reporting • Data Visualization
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Tools:**
-- Python
-- SQL / MySQL
-- Excel
-- Power BI
-
-**Libraries:**
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
-
-**Other:**
-- SQLAlchemy
-- Jupyter Notebook
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python, SQL, MySQL, PostgreSQL |
+| **BI & Dashboards** | Power BI, DAX, Excel, Power Pivot |
+| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
+| **ETL & Pipeline** | SQLAlchemy, Data Cleaning, Star Schema |
+| **Deployment** | Streamlit, Plotly, Jupyter Notebook |
+| **ML Fundamentals** | Regression, Classification (Scikit-learn) |
 
 ---
 
-## 📌 Selected Projects
+## 🌱 Ongoing
 
-### 🛒 Retail Analytics System
-Built an end-to-end analytics pipeline to analyze sales performance, identify revenue trends, and support business decision-making using Python, SQL, Excel, and Power BI.
-
----
-
-### 📊 Customer Churn Analysis
-Conducted exploratory data analysis (EDA) on customer churn data using Python in Jupyter Notebook and prepared a structured report highlighting key churn patterns and insights.
+### ✈️ Travel Risk Forecasting & Budget Optimization System
+Building an ML-powered system using multi-variable predictive models and 
+regression techniques to forecast travel risk scores and generate 
+cost-efficient travel recommendations.
+Stack: Python • Pandas • NumPy • Scikit-learn
 
 ---
 
-### 🍕 Pizza Sales SQL Analysis
-Performed business-focused SQL analysis to evaluate revenue trends, product performance, and customer behavior patterns.
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dixit_Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/dixit-data-analyst/)
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://dixit-rag-analytics.streamlit.app)
+[![GitHub](https://img.shields.io/badge/GitHub-dixit--072-black?logo=github)](https://github.com/dixit-072)
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced SQL optimization techniques
-- Feature engineering for ML models
-- Production-level analytics systems
-- RAG-based data analysis workflows
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/dixit-data-analyst/
-
----
-
-⭐ Turning data into decisions through analytics, dashboards, and insights.
+*⭐ Turning raw data into business decisions — one pipeline at a time.*
