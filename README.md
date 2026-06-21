@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 **Data Analyst** at **Eligo Creative Services Pvt. Ltd.**, Shimla
+- 🏢 **Junior Data Analyst** at **Eligo Creative Services Pvt. Ltd.**, Shimla
 - 🎓 **MCA** — Himachal Pradesh University *(2026)*
 - 🚀 Built a **live RAG Analytics Observability Pipeline** deployed on Streamlit
 - 📊 Worked on **149,000+ retail transactions** and **7,000+ customer records**
