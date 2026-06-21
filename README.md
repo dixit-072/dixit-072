@@ -1,132 +1,158 @@
-# Hi, I'm Dixit Sharma 👋
+<h1 align="center">Hi, I'm Dixit Sharma 👋</h1>
 
-### Data Analyst | SQL • Python • Power BI • Excel • Streamlit
+<h3 align="center">Data Analyst · SQL • Python • Power BI • Streamlit • Machine Learning</h3>
 
-Transforming raw data into actionable business insights through analytics, dashboarding, and data-driven decision-making.
+<p align="center">
+  <em>Transforming raw data into actionable business decisions — one query at a time.</em>
+</p>
 
-📍 Shimla, Himachal Pradesh, India
-📧 [kaushaldixit783@gmail.com](mailto:kaushaldixit783@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/dixit-data-analyst
-💻 GitHub: https://github.com/dixit-072
+<p align="center">
+  <a href="https://www.linkedin.com/in/dixit-data-analyst">
+    <img src="https://img.shields.io/badge/LinkedIn-dixit--data--analyst-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaushaldixit783@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kaushaldixit783@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dixit-072">
+    <img src="https://img.shields.io/badge/GitHub-dixit--072-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
-
-## About Me
-
-Junior Data Analyst at Eligo Creative Services Pvt. Ltd. with hands-on experience in SQL, Python, Power BI, Excel, and MySQL. Experienced in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business analytics.
-
-Worked on real-world datasets containing over **149,000+ retail transactions** and **7,000+ customer records**, delivering analytics solutions that support business reporting, customer insights, and operational decision-making.
-
----
-
-## Professional Experience
-
-### Junior Data Analyst | Eligo Creative Services Pvt. Ltd.
-
-**May 2026 – Present**
-
-* Developed an AI observability pipeline for Retrieval-Augmented Generation (RAG) systems.
-* Audited 192 LLM queries and monitored confidence, latency, hallucination, and retrieval metrics.
-* Built interactive Streamlit and Power BI dashboards for AI performance monitoring.
-* Developed KPI dashboards and automated reporting workflows to improve business visibility.
-
-### Data Analyst Intern | Eligo Creative Services Pvt. Ltd.
-
-**Jan 2026 – Apr 2026**
-
-* Analyzed 149,000+ retail transactions and 7,000+ customer records using Python, SQL, MySQL, and Power BI.
-* Built analytics solutions involving data cleaning, EDA, dashboard development, and business reporting.
-* Generated insights related to customer behavior, revenue trends, and product performance.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dixit-072&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-### Automated RAG Analytics & Observability Pipeline
-
-* Developed an end-to-end analytics pipeline for monitoring production RAG systems.
-* Processed and evaluated 192 LLM interactions.
-* Tracked confidence scores, latency, hallucination rates, and retrieval failures.
-* Technologies: Python, Pandas, MySQL, SQLAlchemy, Streamlit, Power BI, Plotly.
-
-### Retail Analytics & Customer Behavior Analysis
-
-* Built a complete analytics workflow using Python, MySQL, SQLAlchemy, and Power BI.
-* Solved 13 business problems covering customer segmentation, customer lifetime value, revenue contribution, and product performance.
-* Developed an interactive Power BI dashboard for business reporting.
-
-### Customer Churn Analysis
-
-* Analyzed approximately 7,000 telecom customer records.
-* Identified key churn drivers including contract type, tenure, internet service, and pricing.
-* Delivered retention-focused business recommendations through data visualization.
-
-### Pizza Sales Analysis using SQL
-
-* Solved real-world business questions using joins, aggregations, subqueries, CTEs, and window functions.
-* Analyzed revenue trends, ordering behavior, category performance, and top-selling products.
-
-### Coffee Shop Sales Dashboard
-
-* Built an Excel dashboard analyzing 149,117 customer transactions.
-* Identified peak sales periods, top-performing products, and store-level performance metrics.
+- 🏢 **Data Analyst** at **Eligo Creative Services Pvt. Ltd.**, Shimla
+- 🎓 **MCA** — Himachal Pradesh University *(2026)*
+- 🚀 Built a **live RAG Analytics Observability Pipeline** deployed on Streamlit
+- 📊 Worked on **149,000+ retail transactions** and **7,000+ customer records**
+- 🤖 Currently building **SafeTravels ML Engine** — a route risk prediction platform
+- 🔍 Actively seeking **Data Analyst · MIS Executive · BI Analyst** roles
+- 📍 Based in Shimla · Open to relocate PAN India
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Programming & Databases
+### 💻 Languages & Databases
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-* Python
-* SQL
-* MySQL
-* PostgreSQL
+### 📊 Data Analysis & Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Data Analysis & Visualization
-
-* Power BI
-* Excel
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-
-### Tools & Technologies
-
-* Streamlit
-* SQLAlchemy
-* Git
-* GitHub
-* Jupyter Notebook
-
-### Analytics & BI
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Dashboard Development
-* KPI Reporting
-* Business Analytics
-* Data Visualization
+### ⚙️ Tools & Frameworks
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## Currently Working On
+## 📌 Featured Projects
 
-### SafeTravels ML Engine
+### 🔬 [Automated RAG Analytics & Observability Pipeline](https://dixit-rag-analytics.streamlit.app)
+> **Live Deployment** · Python · MySQL · SQLAlchemy · Streamlit · Power BI · Plotly
 
-An intelligent travel analytics platform focused on route risk prediction, weather-based travel analysis, and budget optimization using machine learning techniques.
+An end-to-end analytics pipeline for monitoring production RAG (Retrieval-Augmented Generation) systems in real time.
 
-Technologies:
-Python • Pandas • NumPy • Scikit-Learn • Streamlit
-
----
-
-## Connect With Me
-
-🔗 LinkedIn: https://www.linkedin.com/in/dixit-data-analyst
-
-💻 GitHub: https://github.com/dixit-072
+- 📈 Audited **192 LLM queries** — tracked confidence, latency, hallucination & retrieval metrics
+- 🎯 **76.37% avg confidence score** · **1.49s avg latency**
+- 📊 Built interactive Power BI + Streamlit dashboards for AI performance monitoring
 
 ---
 
-⭐ Passionate about solving business problems through analytics, visualization, and data-driven decision-making.
+### 🛒 [Retail Analytics & Customer Behavior Analysis](https://github.com/dixit-072)
+> Python · MySQL · SQLAlchemy · Power BI
+
+Full analytics workflow on **149,000+ retail transactions**.
+
+- Solved **13 business problems** — customer segmentation, CLV, revenue contribution, product performance
+- Delivered an interactive Power BI dashboard for business reporting
+
+---
+
+### 📉 [Customer Churn Analysis](https://github.com/dixit-072)
+> Python · Pandas · Scikit-learn · Matplotlib · Seaborn
+
+- Analyzed **~7,000 telecom customer records**
+- Identified key churn drivers: contract type, tenure, internet service, pricing
+- Delivered retention-focused business recommendations through data visualization
+
+---
+
+### 🍕 [Pizza Sales Analysis — SQL](https://github.com/dixit-072)
+> MySQL · Advanced SQL
+
+- Solved real-world business questions using **JOINs, aggregations, subqueries, CTEs, window functions**
+- Analyzed revenue trends, ordering behavior, category performance & top-selling products
+
+---
+
+### ☕ [Coffee Shop Sales Dashboard](https://github.com/dixit-072)
+> Excel · Dashboard Development
+
+- Built an Excel dashboard on **149,117 customer transactions**
+- Identified peak sales periods, top products & store-level performance
+
+---
+
+### ✈️ [SafeTravels ML Engine](https://github.com/dixit-072/safetravels-ml-engine) *(In Progress)*
+> Python · Pandas · Scikit-learn · Streamlit · FastAPI
+
+Intelligent travel analytics platform — route risk prediction, weather-based travel analysis & budget optimization using ML.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dixit-072&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dixit-072&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dixit-072&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+| Certificate | Platform |
+|---|---|
+| Business Analytics with Excel | Simplilearn |
+| SQL for Data Science | Simplilearn |
+| Intro to Applied Data Science with Python | Simplilearn |
+| Machine Learning Using Python | Simplilearn |
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dixit-data-analyst">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:kaushaldixit783@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <em>💡 Passionate about solving business problems through analytics, visualization, and data-driven decision-making.</em>
+</p>
