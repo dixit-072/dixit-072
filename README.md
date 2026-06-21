@@ -13,7 +13,7 @@ Transforming raw data into actionable business insights through analytics, dashb
 
 ## About Me
 
-Data Analyst at Eligo Creative Services Pvt. Ltd. with hands-on experience in SQL, Python, Power BI, Excel, and MySQL. Experienced in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business analytics.
+Junior Data Analyst at Eligo Creative Services Pvt. Ltd. with hands-on experience in SQL, Python, Power BI, Excel, and MySQL. Experienced in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business analytics.
 
 Worked on real-world datasets containing over **149,000+ retail transactions** and **7,000+ customer records**, delivering analytics solutions that support business reporting, customer insights, and operational decision-making.
 
@@ -21,7 +21,7 @@ Worked on real-world datasets containing over **149,000+ retail transactions** a
 
 ## Professional Experience
 
-### Data Analyst | Eligo Creative Services Pvt. Ltd.
+### Junior Data Analyst | Eligo Creative Services Pvt. Ltd.
 
 **May 2026 – Present**
 
