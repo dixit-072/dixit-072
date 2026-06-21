@@ -1,89 +1,132 @@
 # Hi, I'm Dixit Sharma 👋
-### Data Analyst | SQL • Python • Power BI • Streamlit | Open to Full-Time Roles
+
+### Data Analyst | SQL • Python • Power BI • Excel • Streamlit
+
+Transforming raw data into actionable business insights through analytics, dashboarding, and data-driven decision-making.
+
+📍 Shimla, Himachal Pradesh, India
+📧 [kaushaldixit783@gmail.com](mailto:kaushaldixit783@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/dixit-data-analyst
+💻 GitHub: https://github.com/dixit-072
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Data Analyst with **6 months of hands-on internship experience** at Eligo CS, 
-where I built end-to-end analytics pipelines across SQL, Python, and Power BI 
-for 149,000+ transactional and 7,000+ behavioral records.
+Data Analyst at Eligo Creative Services Pvt. Ltd. with hands-on experience in SQL, Python, Power BI, Excel, and MySQL. Experienced in data cleaning, exploratory data analysis, dashboard development, KPI reporting, and business analytics.
 
-I've delivered **5 production-backed projects** — from AI observability dashboards 
-to customer churn analysis — translating raw data into staffing, pricing, 
-and retention decisions.
-
-📍 Based in Himachal Pradesh | Open to relocate → Delhi NCR / Chandigarh / Noida / Gurugram
+Worked on real-world datasets containing over **149,000+ retail transactions** and **7,000+ customer records**, delivering analytics solutions that support business reporting, customer insights, and operational decision-making.
 
 ---
 
-## 🚀 Flagship Project
+## Professional Experience
 
-### 🤖 Automated RAG Analytics & Observability Pipeline
-**[🔗 Live App](https://dixit-rag-analytics.streamlit.app)**
+### Data Analyst | Eligo Creative Services Pvt. Ltd.
 
-- Designed a modular end-to-end pipeline processing raw LLM/chatbot logs
-- Audited **192 queries** | Tracked **76.37% avg confidence** | **1.49s avg latency**
-- Engineered hallucination detection, retrieval failure rates & confidence drift metrics
-- Deployed dual dashboards: **Streamlit Cloud + Power BI Star Schema**
-- Stack: Python • Pandas • MySQL • SQLAlchemy • Streamlit • Power BI • Plotly
+**May 2026 – Present**
 
----
+* Developed an AI observability pipeline for Retrieval-Augmented Generation (RAG) systems.
+* Audited 192 LLM queries and monitored confidence, latency, hallucination, and retrieval metrics.
+* Built interactive Streamlit and Power BI dashboards for AI performance monitoring.
+* Developed KPI dashboards and automated reporting workflows to improve business visibility.
 
-## 📌 Projects
+### Data Analyst Intern | Eligo Creative Services Pvt. Ltd.
 
-### 🛒 Retail Analytics & Customer Behavior Analysis
-- Executed **13 SQL business queries** — CLV, segmentation, top-3 products per category
-- Built interactive Power BI dashboard with KPI cards, revenue trends & age-group breakdowns
-- Stack: Python • Pandas • MySQL • SQLAlchemy • Power BI
+**Jan 2026 – Apr 2026**
 
-### 📉 Customer Churn Analysis
-- Analyzed **~7,000 telecom customer records**
-- Identified highest-risk segment at **54.6%** churn rate
-- Produced 5+ segmented visualizations → contract migration recommendations
-- Stack: Python • Pandas • Matplotlib • Seaborn • Jupyter Notebook
-
-### 🍕 Pizza Sales SQL Analysis
-- Solved **15+ real-world business problems** across 3 difficulty tiers
-- Uncovered cumulative revenue trends, peak ordering hours & top-5 revenue pizzas
-- Stack: MySQL • CTEs • Window Functions • Joins • Aggregations
-
-### ☕ Coffee Shop Sales Dashboard
-- Analyzed **149,117 transactions** across store locations
-- Identified peak hours (8–10 AM), top products & highest-revenue store
-- Stack: Microsoft Excel • Pivot Tables • KPI Reporting • Data Visualization
+* Analyzed 149,000+ retail transactions and 7,000+ customer records using Python, SQL, MySQL, and Power BI.
+* Built analytics solutions involving data cleaning, EDA, dashboard development, and business reporting.
+* Generated insights related to customer behavior, revenue trends, and product performance.
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-| Category | Tools & Technologies |
-|---|---|
-| **Languages** | Python, SQL, MySQL, PostgreSQL |
-| **BI & Dashboards** | Power BI, DAX, Excel, Power Pivot |
-| **Libraries** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
-| **ETL & Pipeline** | SQLAlchemy, Data Cleaning, Star Schema |
-| **Deployment** | Streamlit, Plotly, Jupyter Notebook |
-| **ML Fundamentals** | Regression, Classification (Scikit-learn) |
+### Automated RAG Analytics & Observability Pipeline
+
+* Developed an end-to-end analytics pipeline for monitoring production RAG systems.
+* Processed and evaluated 192 LLM interactions.
+* Tracked confidence scores, latency, hallucination rates, and retrieval failures.
+* Technologies: Python, Pandas, MySQL, SQLAlchemy, Streamlit, Power BI, Plotly.
+
+### Retail Analytics & Customer Behavior Analysis
+
+* Built a complete analytics workflow using Python, MySQL, SQLAlchemy, and Power BI.
+* Solved 13 business problems covering customer segmentation, customer lifetime value, revenue contribution, and product performance.
+* Developed an interactive Power BI dashboard for business reporting.
+
+### Customer Churn Analysis
+
+* Analyzed approximately 7,000 telecom customer records.
+* Identified key churn drivers including contract type, tenure, internet service, and pricing.
+* Delivered retention-focused business recommendations through data visualization.
+
+### Pizza Sales Analysis using SQL
+
+* Solved real-world business questions using joins, aggregations, subqueries, CTEs, and window functions.
+* Analyzed revenue trends, ordering behavior, category performance, and top-selling products.
+
+### Coffee Shop Sales Dashboard
+
+* Built an Excel dashboard analyzing 149,117 customer transactions.
+* Identified peak sales periods, top-performing products, and store-level performance metrics.
 
 ---
 
-## 🌱 Ongoing
+## Technical Skills
 
-### ✈️ Travel Risk Forecasting & Budget Optimization System
-Building an ML-powered system using multi-variable predictive models and 
-regression techniques to forecast travel risk scores and generate 
-cost-efficient travel recommendations.
-Stack: Python • Pandas • NumPy • Scikit-learn
+### Programming & Databases
+
+* Python
+* SQL
+* MySQL
+* PostgreSQL
+
+### Data Analysis & Visualization
+
+* Power BI
+* Excel
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Tools & Technologies
+
+* Streamlit
+* SQLAlchemy
+* Git
+* GitHub
+* Jupyter Notebook
+
+### Analytics & BI
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Dashboard Development
+* KPI Reporting
+* Business Analytics
+* Data Visualization
 
 ---
 
-## 📫 Connect
+## Currently Working On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dixit_Sharma-blue?logo=linkedin)](https://www.linkedin.com/in/dixit-data-analyst/)
-[![Live App](https://img.shields.io/badge/Streamlit-Live_App-red?logo=streamlit)](https://dixit-rag-analytics.streamlit.app)
-[![GitHub](https://img.shields.io/badge/GitHub-dixit--072-black?logo=github)](https://github.com/dixit-072)
+### SafeTravels ML Engine
+
+An intelligent travel analytics platform focused on route risk prediction, weather-based travel analysis, and budget optimization using machine learning techniques.
+
+Technologies:
+Python • Pandas • NumPy • Scikit-Learn • Streamlit
 
 ---
 
-*⭐ Turning raw data into business decisions — one pipeline at a time.*
+## Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/dixit-data-analyst
+
+💻 GitHub: https://github.com/dixit-072
+
+---
+
+⭐ Passionate about solving business problems through analytics, visualization, and data-driven decision-making.
