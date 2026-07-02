@@ -18,17 +18,16 @@
   </a>
 </p>
 
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🏢 **Junior Data Analyst** at **Eligo Creative Services Pvt. Ltd.**, Shimla
+- 🏢 **Data Analyst** at **Eligo Creative Services Pvt. Ltd.**, Shimla
 - 🎓 **MCA** — Himachal Pradesh University *(2026)*
+- ✈️ Built & **deployed SafeTravels AI** — an ML-powered travel risk prediction platform
 - 🚀 Built a **live RAG Analytics Observability Pipeline** deployed on Streamlit
 - 📊 Worked on **149,000+ retail transactions** and **7,000+ customer records**
-- 🤖 Currently building **SafeTravels ML Engine** — a route risk prediction platform
-- 🔍 Actively seeking **Data Analyst · MIS Executive · BI Analyst** roles
+- 🔍 Actively seeking **Data Analyst · MIS Executive · BI Analyst · Reporting Analyst** roles
 - 📍 Based in Shimla · Open to relocate PAN India
 
 ---
@@ -52,14 +51,29 @@
 
 ### ⚙️ Tools & Frameworks
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
+
+### ✈️ [SafeTravels AI — Travel Risk Prediction Engine](https://github.com/dixit-072/safetravels-ml-engine)
+> **Live & Deployed** · Python · Scikit-learn · FastAPI · Streamlit · Open-Meteo API
+
+An end-to-end ML platform that predicts real-time travel risk scores for Indian destinations, combining live weather data with terrain-based risk modeling.
+
+- 🌦️ Integrated **live weather data** via the Open-Meteo API with **IMD-standard rain intensity classification**
+- 🧠 ML model + terrain analysis pipeline scoring routes on a dynamic risk gauge with color-coded badges
+- ⚙️ **FastAPI backend deployed on Render**, **Streamlit frontend** for interactive user input
+- 🔁 Solved cold-start latency on Render's free tier using scheduled uptime pings (UptimeRobot)
+- 🔗 **[Try the live app →](https://github.com/dixit-072/safetravels-ml-engine)** *(update with your live Streamlit/Render URL)*
+
+---
 
 ### 🔬 [Automated RAG Analytics & Observability Pipeline](https://dixit-rag-analytics.streamlit.app)
 > **Live Deployment** · Python · MySQL · SQLAlchemy · Streamlit · Power BI · Plotly
@@ -104,13 +118,6 @@ Full analytics workflow on **149,000+ retail transactions**.
 
 - Built an Excel dashboard on **149,117 customer transactions**
 - Identified peak sales periods, top products & store-level performance
-
----
-
-### ✈️ [SafeTravels ML Engine](https://github.com/dixit-072/safetravels-ml-engine) *(In Progress)*
-> Python · Pandas · Scikit-learn · Streamlit · FastAPI
-
-Intelligent travel analytics platform — route risk prediction, weather-based travel analysis & budget optimization using ML.
 
 ---
 
