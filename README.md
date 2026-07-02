@@ -86,7 +86,7 @@ An end-to-end analytics pipeline for monitoring production RAG (Retrieval-Augmen
 
 ---
 
-### 🛒 [Retail Analytics & Customer Behavior Analysis](https://github.com/dixit-072)
+### 🛒 [Retail Analytics & Customer Behavior Analysis](https://github.com/dixit-072/retail-analytics-project)
 > Python · MySQL · SQLAlchemy · Power BI
 
 Full analytics workflow on **149,000+ retail transactions**.
@@ -96,7 +96,7 @@ Full analytics workflow on **149,000+ retail transactions**.
 
 ---
 
-### 📉 [Customer Churn Analysis](https://github.com/dixit-072)
+### 📉 [Customer Churn Analysis](https://github.com/dixit-072/customer-churn-analysis)
 > Python · Pandas · Scikit-learn · Matplotlib · Seaborn
 
 - Analyzed **~7,000 telecom customer records**
@@ -105,7 +105,7 @@ Full analytics workflow on **149,000+ retail transactions**.
 
 ---
 
-### 🍕 [Pizza Sales Analysis — SQL](https://github.com/dixit-072)
+### 🍕 [Pizza Sales Analysis — SQL](https://github.com/dixit-072/pizza-sales-sql)
 > MySQL · Advanced SQL
 
 - Solved real-world business questions using **JOINs, aggregations, subqueries, CTEs, window functions**
@@ -113,7 +113,7 @@ Full analytics workflow on **149,000+ retail transactions**.
 
 ---
 
-### ☕ [Coffee Shop Sales Dashboard](https://github.com/dixit-072)
+### ☕ [Coffee Shop Sales Dashboard](https://github.com/dixit-072/coffee-sales-analysis)
 > Excel · Dashboard Development
 
 - Built an Excel dashboard on **149,117 customer transactions**
