@@ -62,7 +62,7 @@
 
 ## 📌 Featured Projects
 
-### ✈️ [SafeTravels AI — Travel Risk Prediction Engine](https://github.com/dixit-072/safetravels-ml-engine)
+### ✈️ [SafeTravels AI — Travel Risk Prediction Engine](https://dixit-072-safetravels-ml-engine-frontendapp-streamlit-lzmyho.streamlit.app/)
 > **Live & Deployed** · Python · Scikit-learn · FastAPI · Streamlit · Open-Meteo API
 
 An end-to-end ML platform that predicts real-time travel risk scores for Indian destinations, combining live weather data with terrain-based risk modeling.
@@ -71,7 +71,7 @@ An end-to-end ML platform that predicts real-time travel risk scores for Indian 
 - 🧠 ML model + terrain analysis pipeline scoring routes on a dynamic risk gauge with color-coded badges
 - ⚙️ **FastAPI backend deployed on Render**, **Streamlit frontend** for interactive user input
 - 🔁 Solved cold-start latency on Render's free tier using scheduled uptime pings (UptimeRobot)
-- 🔗 **[Try the live app →](https://github.com/dixit-072/safetravels-ml-engine)** *(update with your live Streamlit/Render URL)*
+- 🔗 **[Try the live app →](https://dixit-072-safetravels-ml-engine-frontendapp-streamlit-lzmyho.streamlit.app/)**
 
 ---
 
