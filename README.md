@@ -114,7 +114,7 @@ Full analytics workflow on **149,000+ retail transactions**.
 ---
 
 ### ☕ [Coffee Shop Sales Dashboard](https://github.com/dixit-072/coffee-sales-analysis)
-> Excel · Dashboard Development
+> Advance Excel · Dashboard Development
 
 - Built an Excel dashboard on **149,117 customer transactions**
 - Identified peak sales periods, top products & store-level performance
